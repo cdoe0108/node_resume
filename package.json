@@ -1,0 +1,15 @@
+{
+  "name": "resume_tanvi",
+  "version": "1.0.0",
+  "description": "this is my resume in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanvi Baranwal (cdoe0108/reactboilerplate.com)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  }
+}

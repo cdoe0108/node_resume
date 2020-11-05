@@ -1,0 +1,17 @@
+{
+	"Education": [
+		{"Class X": "95.6"},
+		{"Class XII": "88.4"},
+		{"UG": "Sastra University"}
+	],
+	"Experiences": [
+		{"Zoho":"Apr 2014-Jul 2015"},
+		{"Loginext":"Aug 2015-May 2017"},
+		{"Reliance Industries":"Jun 2017-Jan 2019"},
+		{"HDFC Life":"Jan 2019-Present"}
+	],
+	"Tech Stack": ["Javascript","React JS","Angular JS","Angular 6","HTML5","CSS","SASS","D3"],
+	"Projects":["Zoho Creator","LM/FM/Ondemand Logistics Platform","Voice assistant","Jio Cinema","Jio Music","Jio News","Jio Tv"],
+	"Contact":["baran.tanvi0108@gmail.com","9898989899"]
+
+}
